@@ -2,4 +2,4 @@ version: 0.0
 os: linux
 files:
    - source: /
-     destination: /data/app_git
+     destination: /var/www/html
